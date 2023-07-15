@@ -1,0 +1,608 @@
+[
+  {
+    "index": 0,
+    "soal": "tahu, tempe",
+    "tipe": "kacang-kacangan",
+    "jawaban": "KEDELAI"
+  },
+  {
+    "index": 1,
+    "soal": "gula, kecil, berkoloni",
+    "tipe": "serangga",
+    "jawaban": "SEMUT"
+  },
+  {
+    "index": 2,
+    "soal": "air, hujan, sungai",
+    "tipe": "aliran",
+    "jawaban": "AIR MATA"
+  },
+  {
+    "index": 3,
+    "soal": "bola, lapangan, gol",
+    "tipe": "olahraga",
+    "jawaban": "SEPAK BOLA"
+  },
+  {
+    "index": 4,
+    "soal": "bulat, kecil, berwarna",
+    "tipe": "mainan",
+    "jawaban": "BOLA BILLY"
+  },
+  {
+    "index": 5,
+    "soal": "alat musik, senar, petik",
+    "tipe": "instrumen",
+    "jawaban": "GITAR"
+  },
+  {
+    "index": 6,
+    "soal": "besar, raja hutan, singa",
+    "tipe": "binatang",
+    "jawaban": "SINGA"
+  },
+  {
+    "index": 7,
+    "soal": "kuda, balap, berkuda",
+    "tipe": "olahraga",
+    "jawaban": "BALAP KUDA"
+  },
+  {
+    "index": 8,
+    "soal": "rokok, kertas, bakar",
+    "tipe": "kegiatan",
+    "jawaban": "MEROKOK"
+  },
+  {
+    "index": 9,
+    "soal": "kepiting, laut, pincang",
+    "tipe": "binatang",
+    "jawaban": "KEPITING"
+  },
+  {
+    "index": 10,
+    "soal": "bulu, sayap, terbang",
+    "tipe": "hewan",
+    "jawaban": "BURUNG"
+  },
+  {
+    "index": 11,
+    "soal": "daun, hijau, berbunga",
+    "tipe": "tumbuhan",
+    "jawaban": "PUCUK MERAH"
+  },
+  {
+    "index": 12,
+    "soal": "kaca, cermin, memantulkan",
+    "tipe": "benda",
+    "jawaban": "CERMIN"
+  },
+  {
+    "index": 13,
+    "soal": "menulis, pensil, kertas",
+    "tipe": "aktivitas",
+    "jawaban": "MENULIS"
+  },
+  {
+    "index": 14,
+    "soal": "buah, manis, kuning",
+    "tipe": "makanan",
+    "jawaban": "PISANG"
+  },
+  {
+    "index": 15,
+    "soal": "hutan, pohon, kayu",
+    "tipe": "tempat",
+    "jawaban": "RIMBA"
+  },
+  {
+    "index": 16,
+    "soal": "anak, sekolah, belajar",
+    "tipe": "aktivitas",
+    "jawaban": "BELAJAR"
+  },
+  {
+    "index": 17,
+    "soal": "hari, malam, bulan",
+    "tipe": "waktu",
+    "jawaban": "BULAN"
+  },
+  {
+    "index": 18,
+    "soal": "burung, taring, buas",
+    "tipe": "binatang",
+    "jawaban": "ELANG"
+  },
+  {
+    "index": 19,
+    "soal": "meja, kursi, ruang",
+    "tipe": "furniture",
+    "jawaban": "RUMAH"
+  },
+  {
+    "index": 20,
+    "soal": "berenang, laut, ombak",
+    "tipe": "aktivitas",
+    "jawaban": "BERENANG"
+  },
+  {
+    "index": 21,
+    "soal": "pisau, potong, makan",
+    "tipe": "alat",
+    "jawaban": "GARPU"
+  },
+  {
+    "index": 22,
+    "soal": "hujan, kilat, petir",
+    "tipe": "cuaca",
+    "jawaban": "BADAI"
+  },
+  {
+    "index": 23,
+    "soal": "jalan, roda, kendaraan",
+    "tipe": "infrastruktur",
+    "jawaban": "JALAN RAYA"
+  },
+  {
+    "index": 24,
+    "soal": "cokelat, manis, enak",
+    "tipe": "makanan",
+    "jawaban": "COKELAT"
+  },
+  {
+    "index": 25,
+    "soal": "buku, baca, tulis",
+    "tipe": "aktivitas",
+    "jawaban": "MENGHITUNG"
+  },
+  {
+    "index": 26,
+    "soal": "alas, duduk, empuk",
+    "tipe": "furniture",
+    "jawaban": "SOFA"
+  },
+  {
+    "index": 27,
+    "soal": "laut, pasir, ombak",
+    "tipe": "tempat",
+    "jawaban": "PANTAI"
+  },
+  {
+    "index": 28,
+    "soal": "binatang, berkaki, rusa",
+    "tipe": "hewan",
+    "jawaban": "KUDA"
+  },
+  {
+    "index": 29,
+    "soal": "tajam, pisau, makan",
+    "tipe": "alat",
+    "jawaban": "SENDOK"
+  },
+  {
+    "index": 30,
+    "soal": "padi, hasil, beras",
+    "tipe": "tanaman",
+    "jawaban": "PADI"
+  },
+  {
+    "index": 31,
+    "soal": "hewan, terbang, vampir",
+    "tipe": "binatang",
+    "jawaban": "KELELAWAR"
+  },
+  {
+    "index": 32,
+    "soal": "menari, musik, ritmis",
+    "tipe": "seni",
+    "jawaban": "TARI"
+  },
+  {
+    "index": 33,
+    "soal": "bunga, harum, indah",
+    "tipe": "tanaman",
+    "jawaban": "MAWAR"
+  },
+  {
+    "index": 34,
+    "soal": "kayu, potong, tulis",
+    "tipe": "alat",
+    "jawaban": "PENSIL"
+  },
+  {
+    "index": 35,
+    "soal": "lumpur, cair, kotor",
+    "tipe": "bahan",
+    "jawaban": "MINYAK"
+  },
+  {
+    "index": 36,
+    "soal": "bunga, panjang, batang",
+    "tipe": "tanaman",
+    "jawaban": "TULIP"
+  },
+  {
+    "index": 37,
+    "soal": "malam, tidur, nyenyak",
+    "tipe": "aktivitas",
+    "jawaban": "TIDUR"
+  },
+  {
+    "index": 38,
+    "soal": "makan, lezat, enak",
+    "tipe": "aktivitas",
+    "jawaban": "MEMASAK"
+  },
+  {
+    "index": 39,
+    "soal": "cokelat, es, manis",
+    "tipe": "makanan",
+    "jawaban": "ES KRIM"
+  },
+  {
+    "index": 40,
+    "soal": "kain, jahit, baju",
+    "tipe": "bahan",
+    "jawaban": "KAIN"
+  },
+  {
+    "index": 41,
+    "soal": "besar, api, bercahaya",
+    "tipe": "fenomena",
+    "jawaban": "MATAHARI"
+  },
+  {
+    "index": 42,
+    "soal": "air, mandi, cuci",
+    "tipe": "aktivitas",
+    "jawaban": "MANDI"
+  },
+  {
+    "index": 43,
+    "soal": "warna, lukis, kanvas",
+    "tipe": "seni",
+    "jawaban": "PAINTING"
+  },
+  {
+    "index": 44,
+    "soal": "pulau, pantai, liburan",
+    "tipe": "tempat",
+    "jawaban": "PULAU"
+  },
+  {
+    "index": 45,
+    "soal": "hewan, sayap, kuning",
+    "tipe": "binatang",
+    "jawaban": "LEBAH"
+  },
+  {
+    "index": 46,
+    "soal": "tenda, berkemah, alam",
+    "tipe": "aktivitas",
+    "jawaban": "BERKEMAH"
+  },
+  {
+    "index": 47,
+    "soal": "merah, darah, denyut",
+    "tipe": "organ",
+    "jawaban": "JANTUNG"
+  },
+  {
+    "index": 48,
+    "soal": "bibir, senyum, gigi",
+    "tipe": "tubuh",
+    "jawaban": "MULUT"
+  },
+  {
+    "index": 49,
+    "soal": "hujan, hujan es, dingin",
+    "tipe": "cuaca",
+    "jawaban": "HUJAN ES"
+  },
+  {
+    "index": 50,
+    "soal": "rumah, tempat tinggal, tidur",
+    "tipe": "tempat",
+    "jawaban": "RUMAH"
+  },
+  {
+    "index": 51,
+    "soal": "tangga, naik, turun",
+    "tipe": "benda",
+    "jawaban": "TANGGA"
+  },
+  {
+    "index": 52,
+    "soal": "musim, bunga, indah",
+    "tipe": "waktu",
+    "jawaban": "MUSIM PRIMAVERA"
+  },
+  {
+    "index": 53,
+    "soal": "burung, hutan, ekor",
+    "tipe": "binatang",
+    "jawaban": "MERPATI"
+  },
+  {
+    "index": 54,
+    "soal": "ikan, renang, di air",
+    "tipe": "hewan",
+    "jawaban": "IKAN"
+  },
+  {
+    "index": 55,
+    "soal": "pensil, gambar, menggambar",
+    "tipe": "aktivitas",
+    "jawaban": "MENGGAMBAR"
+  },
+  {
+    "index": 56,
+    "soal": "kebun, bunga, tanaman",
+    "tipe": "tempat",
+    "jawaban": "KEBUN BUNGA"
+  },
+  {
+    "index": 57,
+    "soal": "perangkat, handphone, panggilan",
+    "tipe": "teknologi",
+    "jawaban": "TELEPON"
+  },
+  {
+    "index": 58,
+    "soal": "padi, beras, makanan",
+    "tipe": "makanan",
+    "jawaban": "NASI"
+  },
+  {
+    "index": 59,
+    "soal": "membaca, kata, buku",
+    "tipe": "aktivitas",
+    "jawaban": "MENGEJA"
+  },
+  {
+    "index": 60,
+    "soal": "kertas, pulpen, menulis",
+    "tipe": "alat",
+    "jawaban": "BOLPOINT"
+  },
+  {
+    "index": 61,
+    "soal": "kacamata, melihat, mata",
+    "tipe": "benda",
+    "jawaban": "KACAMATA"
+  },
+  {
+    "index": 62,
+    "soal": "musik, alat, denting",
+    "tipe": "alat musik",
+    "jawaban": "PIANO"
+  },
+  {
+    "index": 63,
+    "soal": "mobil, roda, kendaraan",
+    "tipe": "transportasi",
+    "jawaban": "MOBIL"
+  },
+  {
+    "index": 64,
+    "soal": "senang, bahagia, gembira",
+    "tipe": "emosi",
+    "jawaban": "SENYUM"
+  },
+  {
+    "index": 65,
+    "soal": "panas, makanan, pedas",
+    "tipe": "makanan",
+    "jawaban": "SAMBAL"
+  },
+  {
+    "index": 66,
+    "soal": "rumput, hijau, tumbuhan",
+    "tipe": "tanaman",
+    "jawaban": "RUMPUT"
+  },
+  {
+    "index": 67,
+    "soal": "angsa, hewan, bulu",
+    "tipe": "binatang",
+    "jawaban": "ANGSA"
+  },
+  {
+    "index": 68,
+    "soal": "cokelat, susu, minuman",
+    "tipe": "minuman",
+    "jawaban": "COKELAT PANAS"
+  },
+  {
+    "index": 69,
+    "soal": "perhiasan, leher, emas",
+    "tipe": "benda",
+    "jawaban": "KALUNG"
+  },
+  {
+    "index": 70,
+    "soal": "kebun, tanaman, air",
+    "tipe": "aktivitas",
+    "jawaban": "MENYIRAM"
+  },
+  {
+    "index": 71,
+    "soal": "parfum, harum, aroma",
+    "tipe": "benda",
+    "jawaban": "WANGI-WANGIAN"
+  },
+  {
+    "index": 72,
+    "soal": "cahaya, padam, lampu",
+    "tipe": "benda",
+    "jawaban": "SAKLAR"
+  },
+  {
+    "index": 73,
+    "soal": "hitam, besar, seram",
+    "tipe": "binatang",
+    "jawaban": "GAGAK"
+  },
+  {
+    "index": 74,
+    "soal": "penyanyi, lagu, musik",
+    "tipe": "seni",
+    "jawaban": "PEMUSIK"
+  },
+  {
+    "index": 75,
+    "soal": "hutan, berjalan, tanpa jalan",
+    "tipe": "tempat",
+    "jawaban": "HUTAN BELANTARA"
+  },
+  {
+    "index": 76,
+    "soal": "kertas, balas, tulis",
+    "tipe": "alat",
+    "jawaban": "BLOKNOT"
+  },
+  {
+    "index": 77,
+    "soal": "batu, gunung, besar",
+    "tipe": "tempat",
+    "jawaban": "GUNUNG"
+  },
+  {
+    "index": 78,
+    "soal": "kebun, anjing, rusa",
+    "tipe": "hewan",
+    "jawaban": "KEBUN BINATANG"
+  },
+  {
+    "index": 79,
+    "soal": "air, mandi, kotor",
+    "tipe": "aktivitas",
+    "jawaban": "MENGERAM"
+  },
+  {
+    "index": 80,
+    "soal": "rokok, hisap, asap",
+    "tipe": "kegiatan",
+    "jawaban": "MEROKOK"
+  },
+  {
+    "index": 81,
+    "soal": "meja, duduk, makan",
+    "tipe": "furniture",
+    "jawaban": "KURSI"
+  },
+  {
+    "index": 82,
+    "soal": "telur, ayam, makanan",
+    "tipe": "makanan",
+    "jawaban": "TELUR"
+  },
+  {
+    "index": 83,
+    "soal": "buku, kertas, tulis",
+    "tipe": "aktivitas",
+    "jawaban": "MENULIS"
+  },
+  {
+    "index": 84,
+    "soal": "buah, merah, asam",
+    "tipe": "makanan",
+    "jawaban": "STROBERI"
+  },
+  {
+    "index": 85,
+    "soal": "taman, hijau, bunga",
+    "tipe": "tempat",
+    "jawaban": "TAMAN"
+  },
+  {
+    "index": 86,
+    "soal": "pantai, air, pasir",
+    "tipe": "tempat",
+    "jawaban": "PANTAI"
+  },
+  {
+    "index": 87,
+    "soal": "cermin, menghilang, menyamar",
+    "tipe": "benda",
+    "jawaban": "KACA MATA"
+  },
+  {
+    "index": 88,
+    "soal": "burung, beo, bicara",
+    "tipe": "hewan",
+    "jawaban": "BEO"
+  },
+  {
+    "index": 89,
+    "soal": "daun, hijau, besar",
+    "tipe": "tanaman",
+    "jawaban": "DAUN"
+  },
+  {
+    "index": 90,
+    "soal": "berenang, air, laut",
+    "tipe": "aktivitas",
+    "jawaban": "BERENANG"
+  },
+  {
+    "index": 91,
+    "soal": "bunga, harum, kering",
+    "tipe": "tanaman",
+    "jawaban": "BUNGA MATAHARI"
+  },
+  {
+    "index": 92,
+    "soal": "kota, rumah, penduduk",
+    "tipe": "tempat",
+    "jawaban": "KOTA"
+  },
+  {
+    "index": 93,
+    "soal": "tajam, gunting, potong",
+    "tipe": "alat",
+    "jawaban": "GUNTING"
+  },
+  {
+    "index": 94,
+    "soal": "dingin, beku, salju",
+    "tipe": "cuaca",
+    "jawaban": "SALJU"
+  },
+  {
+    "index": 95,
+    "soal": "pohon, buah, tinggi",
+    "tipe": "tanaman",
+    "jawaban": "MANGGA"
+  },
+  {
+    "index": 96,
+    "soal": "kue, manis, lezat",
+    "tipe": "makanan",
+    "jawaban": "KUE"
+  },
+  {
+    "index": 97,
+    "soal": "jalan, bersepeda, roda dua",
+    "tipe": "transportasi",
+    "jawaban": "SEPEDA"
+  },
+  {
+    "index": 98,
+    "soal": "hujan, payung, basah",
+    "tipe": "cuaca",
+    "jawaban": "HUJAN"
+  },
+  {
+    "index": 99,
+    "soal": "kamar, tidur, bantal",
+    "tipe": "furniture",
+    "jawaban": "RANJANG"
+  },
+  {
+    "index": 100,
+    "soal": "jendela, terang, ruangan",
+    "tipe": "benda",
+    "jawaban": "LAMPU"
+  }
+]
